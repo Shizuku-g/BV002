@@ -1,0 +1,545 @@
+信息: 正在处理符号 'C2:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C3:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C4:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C5:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C6:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C7:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C8:Capacitor_SMD:C_0805_2012Metric'。
+信息: 正在处理符号 'C9:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C10:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C12:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C13:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C14:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C15:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C16:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C17:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C18:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C19:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C20:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C21:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C23:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C24:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C26:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C27:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C28:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C29:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C31:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C33:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C38:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C39:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C41:Capacitor_SMD:C_0805_2012Metric'。
+信息: 正在处理符号 'C45:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C46:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C48:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C49:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C50:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C52:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C53:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C55:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C61:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C65:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C82:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C83:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C84:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'C86:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C87:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C88:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C90:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C207:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'D1:Diode_SMD:D_SMB'。
+信息: 正在处理符号 'D3:Diode_SMD:D_SOD-123'。
+信息: 正在处理符号 'H1:qaxe:MountingHole_3.2mm_M3_Pad_Via'。
+信息: 正在处理符号 'H2:qaxe:MountingHole_3.2mm_M3_Pad_Via'。
+信息: 正在处理符号 'H3:qaxe:MountingHole_3.2mm_M3_Pad_Via'。
+信息: 正在处理符号 'H4:qaxe:MountingHole_3.2mm_M3_Pad_Via'。
+信息: 正在处理符号 'H5:qaxe:MountingHole_3.2mm_M3_Pad_Via'。
+信息: 正在处理符号 'H6:qaxe:MountingHole_3.2mm_M3_Pad_Via'。
+信息: 正在处理符号 'J1:qaxe:XT30PW-M'。
+信息: 正在处理符号 'L1:bitaxe:SLC1175-271MEC_COC'。
+信息: 正在处理符号 'U1:bitaxe:polarity'。
+信息: 正在处理符号 'C92:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'L2:bitaxe:SLC1175-271MEC_COC'。
+信息: 正在处理符号 'L4:Inductor_SMD:L_Changjiang_FTC201612S'。
+信息: 正在处理符号 'M1:Connector:FanPinHeader_1x04_P2.54mm_Vertical'。
+信息: 正在处理符号 'C94:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C96:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C98:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'M2:Connector:FanPinHeader_1x04_P2.54mm_Vertical'。
+信息: 正在处理符号 'NT1:bitaxe:NetTie-2_SMD_Pad0.2mmx1mm'。
+信息: 正在处理符号 'NT2:bitaxe:NetTie-2_SMD_Pad0.2mmx1mm'。
+信息: 正在处理符号 'C99:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C102:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C103:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C104:Capacitor_SMD:CP_Elec_6.3x5.9'。
+信息: 正在处理符号 'C106:Capacitor_SMD:CP_Elec_6.3x5.9'。
+信息: 正在处理符号 'C107:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R1:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R2:Resistor_SMD:R_0805_2012Metric'。
+信息: 正在处理符号 'C110:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C111:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C112:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C113:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C124:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C125:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C126:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C153:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R3:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R5:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R6:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C155:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R8:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R9:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R10:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C157:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R11:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R12:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C159:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R15:Resistor_SMD:R_0805_2012Metric'。
+信息: 正在处理符号 'R17:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R18:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C161:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R23:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R24:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C163:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'U2:Package_TO_SOT_SMD:SOT-583-8'。
+信息: 正在处理符号 'R33:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C164:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C165:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C167:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C168:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C171:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R25:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R27:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R28:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C173:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C174:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C175:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C176:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C177:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R35:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R43:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R29:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C178:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R30:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'U3:bitaxe:LQFN40-CLIP'。
+信息: 正在处理符号 'U4:bitaxe:LQFN40-CLIP'。
+信息: 正在处理符号 'C179:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C180:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C181:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C182:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C183:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R45:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'U5:Audio_Module:B1373CC'。
+信息: 正在处理符号 'R46:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C184:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R55:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R56:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R57:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C185:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R58:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R59:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C186:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R60:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R61:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R31:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C187:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C188:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C189:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C190:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C191:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C192:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C193:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C194:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'C195:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'R62:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R63:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R64:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R65:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R66:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R67:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R68:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R69:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R70:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R71:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'R72:Resistor_SMD:R_0402_1005Metric'。
+信息: 正在处理符号 'C206:Capacitor_SMD:C_0402_1005Metric'。
+信息: 正在处理符号 'U6:Audio_Module:B1373CC'。
+信息: 正在处理符号 'U7:Package_SO:TSSOP-16_4.4x5mm_P0.65mm'。
+信息: 正在处理符号 'U8:Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm'。
+信息: 正在处理符号 'U9:Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm'。
+信息: 正在处理符号 'U10:Package_TO_SOT_SMD:SOT-23-5'。
+信息: 正在处理符号 'U11:Package_TO_SOT_SMD:SOT-23-5'。
+信息: 正在处理符号 'U12:Package_TO_SOT_SMD:SOT-23-5'。
+信息: 正在处理符号 'U13:Package_TO_SOT_SMD:SOT-23-5'。
+信息: 正在处理符号 'U17:Package_SO:TSSOP-14_4.4x5mm_P0.65mm'。
+信息: 正在处理符号 'U30:myfootprints:T-Display-S3'。
+信息: 正在处理符号 'U32:Package_SO:MSOP-10_3x3mm_P0.5mm'。
+信息: 正在处理符号 'U33:Package_SO:VSSOP-8_2.3x2mm_P0.5mm'。
+信息: 正在处理符号 'U37:qaxe:TMP1075-DRL'。
+添加网络 Net-(U5-VDD2_0)。
+将 C92 引脚 2 从 Net-(A1-VDD2_0) 重新连接到了 Net-(U5-VDD2_0)。
+将 C98 引脚 1 从 Net-(A1-VDD2_0) 重新连接到了 Net-(U5-VDD2_0)。
+添加网络 Net-(U5-VDD1_0)。
+将 C98 引脚 2 从 Net-(A1-VDD3_0) 重新连接到了 Net-(U5-VDD1_0)。
+将 C107 引脚 1 从 Net-(A1-VDD3_0) 重新连接到了 Net-(U5-VDD1_0)。
+将 C107 引脚 2 从 GND_1 重新连接到了 GND。
+将 C153 引脚 1 从 GND_1 重新连接到了 VDD。
+添加网络 Net-(U6-VDD3_0)。
+将 C153 引脚 2 从 Net-(A4-VDD1_0) 重新连接到了 Net-(U6-VDD3_0)。
+添加网络 Net-(U6-VDD2_0)。
+将 C155 引脚 2 从 Net-(A4-VDD2_0) 重新连接到了 Net-(U6-VDD2_0)。
+将 C155 引脚 1 从 Net-(A4-VDD1_0) 重新连接到了 Net-(U6-VDD3_0)。
+添加网络 Net-(U6-VDDIO_08_0)。
+将 C157 引脚 1 从 /BM1366/0V8_1 重新连接到了 Net-(U6-VDDIO_08_0)。
+添加网络 Net-(U6-VDD1_0)。
+将 C159 引脚 2 从 Net-(A4-VDD3_0) 重新连接到了 Net-(U6-VDD1_0)。
+将 C159 引脚 1 从 Net-(A4-VDD2_0) 重新连接到了 Net-(U6-VDD2_0)。
+添加网络 Net-(U6-VDDIO_12_0)。
+将 C161 引脚 1 从 1V2_1 重新连接到了 Net-(U6-VDDIO_12_0)。
+将 C163 引脚 2 从 VDD 重新连接到了 GND。
+将 C163 引脚 1 从 Net-(A4-VDD3_0) 重新连接到了 Net-(U6-VDD1_0)。
+将 C171 引脚 1 从 VDD 重新连接到了 GND。
+添加网络 Net-(U6-VDD1_1)。
+将 C171 引脚 2 从 Net-(A4-VDD3_1) 重新连接到了 Net-(U6-VDD1_1)。
+添加网络 Net-(U6-VDD2_1)。
+将 C177 引脚 2 从 Net-(A4-VDD2_1) 重新连接到了 Net-(U6-VDD2_1)。
+将 C177 引脚 1 从 Net-(A4-VDD3_1) 重新连接到了 Net-(U6-VDD1_1)。
+将 C178 引脚 2 从 Net-(A3-VDD2_1) 重新连接到了 GND_1。
+添加网络 Net-(U5-VDD3_1)。
+将 C178 引脚 1 从 Net-(A3-VDD3_1) 重新连接到了 Net-(U5-VDD3_1)。
+将 C183 引脚 1 从 Net-(A4-VDD2_1) 重新连接到了 Net-(U6-VDD2_1)。
+添加网络 Net-(U6-VDD3_1)。
+将 C183 引脚 2 从 Net-(A4-VDD1_1) 重新连接到了 Net-(U6-VDD3_1)。
+添加网络 Net-(U5-VDD2_1)。
+将 C184 引脚 1 从 Net-(A3-VDD2_1) 重新连接到了 Net-(U5-VDD2_1)。
+将 C184 引脚 2 从 Net-(A3-VDD1_1) 重新连接到了 Net-(U5-VDD3_1)。
+将 C185 引脚 2 从 GND_1 重新连接到了 VDD。
+将 C185 引脚 1 从 Net-(A4-VDD1_1) 重新连接到了 Net-(U6-VDD3_1)。
+添加网络 Net-(U5-VDD1_1)。
+将 C186 引脚 1 从 Net-(A3-VDD1_1) 重新连接到了 Net-(U5-VDD1_1)。
+将 C186 引脚 2 从 GND 重新连接到了 Net-(U5-VDD2_1)。
+添加了 C195 (封装 'Capacitor_SMD:C_0402_1005Metric')。
+已将 REF** 的位号更改为 C195。
+已将 C195 的值从 'C_0402_1005Metric' 修改为 '1uF'。
+将 C195 符号分配从  更新到 /4cf9c075-d009-4c35-9949-adda70ae20c7/5cac742f-71c1-4b5f-9255-c0933d732803。
+已更新 C195 个字段。
+已将 C195 图纸名称更新为 '/BM1366/'。
+已将 C195 图纸文件更新为 'bm1366.kicad_sch'。
+已将 C195 封装筛选规则更新为 'C_*'。
+将 C195 引脚 1 连接到了 GND。
+将 C195 引脚 2 连接到了 Net-(U5-VDD1_1)。
+已更新 C195 单元的元数据。
+已更新 L1 个字段。
+添加网络 Net-(U6-RI)。
+将 R24 引脚 1 从 Net-(A6-RI) 重新连接到了 Net-(U6-RI)。
+添加网络 Net-(U5-LITE_PAD)。
+将 R28 引脚 1 从 Net-(A1-LITE_PAD) 重新连接到了 Net-(U5-LITE_PAD)。
+添加了 R30 (封装 'Resistor_SMD:R_0402_1005Metric')。
+已将 REF** 的位号更改为 R30。
+已将 R30 的值从 'R_0402_1005Metric' 修改为 '10k'。
+将 R30 符号分配从  更新到 /4cf9c075-d009-4c35-9949-adda70ae20c7/908a538c-9adf-4183-acd7-97a39e0809e3。
+已更新 R30 个字段。
+已将 R30 图纸名称更新为 '/BM1366/'。
+已将 R30 图纸文件更新为 'bm1366.kicad_sch'。
+已将 R30 封装筛选规则更新为 'R_*'。
+将 R30 引脚 2 连接到了 /BM1366/Level Shifter/NRSTI。
+添加网络 Net-(R30-Pad1)。
+将 R30 引脚 1 连接到了 Net-(R30-Pad1)。
+已更新 R30 单元的元数据。
+添加了 R31 (封装 'Resistor_SMD:R_0402_1005Metric')。
+已将 REF** 的位号更改为 R31。
+已将 R31 的值从 'R_0402_1005Metric' 修改为 '10k'。
+将 R31 符号分配从  更新到 /4cf9c075-d009-4c35-9949-adda70ae20c7/2c4814b4-0640-43ad-82f6-ef1a9cbd42a7。
+已更新 R31 个字段。
+已将 R31 图纸名称更新为 '/BM1366/'。
+已将 R31 图纸文件更新为 'bm1366.kicad_sch'。
+已将 R31 封装筛选规则更新为 'R_*'。
+添加网络 Net-(R31-Pad2)。
+将 R31 引脚 2 连接到了 Net-(R31-Pad2)。
+添加网络 /BM1366/NRSTO。
+将 R31 引脚 1 连接到了 /BM1366/NRSTO。
+已更新 R31 单元的元数据。
+添加网络 Net-(U6-LITE_PAD)。
+将 R43 引脚 1 从 Net-(A4-LITE_PAD) 重新连接到了 Net-(U6-LITE_PAD)。
+将 R45 引脚 2 从 /BM1366/Level Shifter/NRSTI2 重新连接到了 /BM1366/NRSTO。
+添加了 U5 (封装 'Audio_Module:B1373CC')。
+已将 REF** 的位号更改为 U5。
+已将 U5 的值从 'B1373CC' 修改为 '~'。
+将 U5 符号分配从  更新到 /4cf9c075-d009-4c35-9949-adda70ae20c7/0b000a2c-9d47-4e33-ba98-7468ad7a44d6。
+已将 U5 图纸名称更新为 '/BM1366/'。
+已将 U5 图纸文件更新为 'bm1366.kicad_sch'。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 15 连接到了 1V2_0。
+将 U5 引脚 32 连接到了 GND。
+添加网络 unconnected-(U5-NC-Pad12)。
+将 U5 引脚 12 连接到了 unconnected-(U5-NC-Pad12)。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+添加网络 unconnected-(U5-PIN_MODE-Pad11)。
+将 U5 引脚 11 连接到了 unconnected-(U5-PIN_MODE-Pad11)。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+添加网络 unconnected-(U5-VSS-Pad4)。
+将 U5 引脚 4 连接到了 unconnected-(U5-VSS-Pad4)。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 7 连接到了 /BM1366/RO。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+添加网络 unconnected-(U5-NC-Pad19)。
+将 U5 引脚 19 连接到了 unconnected-(U5-NC-Pad19)。
+将 U5 引脚 28 连接到了 Net-(U5-VDD3_1)。
+添加网络 unconnected-(U5-NC-Pad20)。
+将 U5 引脚 20 连接到了 unconnected-(U5-NC-Pad20)。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 22 连接到了 /BM1366/Level Shifter/BI。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 29 连接到了 Net-(U5-VDD2_1)。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+添加网络 unconnected-(U5-NC-Pad21)。
+将 U5 引脚 21 连接到了 unconnected-(U5-NC-Pad21)。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 16 连接到了 1V2_0。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 8 连接到了 /BM1366/CLKI。
+将 U5 引脚 13 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 6 连接到了 /BM1366/CI。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 23 连接到了 /BM1366/Level Shifter/CLKI。
+将 U5 引脚 17 连接到了 /BM1366/0V8_0。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 26 连接到了 /BM1366/Level Shifter/NRSTI。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 3 连接到了 Net-(U5-VDD3_0)。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 27 连接到了 Net-(R30-Pad1)。
+将 U5 引脚 14 连接到了 /BM1366/0V8_0。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 25 连接到了 /BM1366/Level Shifter/CI。
+将 U5 引脚 1 连接到了 Net-(U5-VDD1_0)。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 9 连接到了 /BM1366/BI。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 24 连接到了 /BM1366/Level Shifter/RO。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 30 连接到了 Net-(U5-VDD1_1)。
+将 U5 引脚 10 连接到了 Net-(U5-LITE_PAD)。
+将 U5 引脚 2 连接到了 Net-(U5-VDD2_0)。
+将 U5 引脚 5 连接到了 /BM1366/RST_N。
+将 U5 引脚 32 连接到了 GND。
+将 U5 引脚 31 连接到了 GND_1。
+将 U5 引脚 18 连接到了 GND。
+已更新 U5 单元的元数据。
+添加了 C90 (封装 'Capacitor_SMD:C_0402_1005Metric')。
+添加了 U6 (封装 'Audio_Module:B1373CC')。
+已将 REF** 的位号更改为 U6。
+已将 U6 的值从 'B1373CC' 修改为 '~'。
+将 U6 符号分配从  更新到 /4cf9c075-d009-4c35-9949-adda70ae20c7/fd68f0f3-a1bd-4385-ae0e-bafe37af180e。
+已将 U6 图纸名称更新为 '/BM1366/'。
+已将 U6 图纸文件更新为 'bm1366.kicad_sch'。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 29 连接到了 Net-(U6-VDD2_1)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 17 连接到了 /BM1366/0V8_1。
+将 U6 引脚 16 连接到了 1V2_1。
+添加网络 unconnected-(U6-RST-Pad26)。
+将 U6 引脚 26 连接到了 unconnected-(U6-RST-Pad26)。
+将 U6 引脚 1 连接到了 Net-(U6-VDD1_0)。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-PIN_MODE-Pad11)。
+将 U6 引脚 11 连接到了 unconnected-(U6-PIN_MODE-Pad11)。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-NC-Pad21)。
+将 U6 引脚 21 连接到了 unconnected-(U6-NC-Pad21)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 10 连接到了 Net-(U6-LITE_PAD)。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 /BM1366/BO。
+将 U6 引脚 9 连接到了 /BM1366/BO。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 5 连接到了 /BM1366/NRSTO。
+将 U6 引脚 31 连接到了 VDD。
+添加网络 unconnected-(U6-NC-Pad20)。
+将 U6 引脚 20 连接到了 unconnected-(U6-NC-Pad20)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 2 连接到了 Net-(U6-VDD2_0)。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-NC-Pad12)。
+将 U6 引脚 12 连接到了 unconnected-(U6-NC-Pad12)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-VSS-Pad27)。
+将 U6 引脚 27 连接到了 unconnected-(U6-VSS-Pad27)。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 24 连接到了 Net-(U6-RI)。
+将 U6 引脚 13 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 15 连接到了 Net-(U6-VDDIO_12_0)。
+将 U6 引脚 31 连接到了 VDD。
+添加网络 unconnected-(U6-NC-Pad19)。
+将 U6 引脚 19 连接到了 unconnected-(U6-NC-Pad19)。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 14 连接到了 Net-(U6-VDDIO_08_0)。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-BO-Pad22)。
+将 U6 引脚 22 连接到了 unconnected-(U6-BO-Pad22)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 3 连接到了 Net-(U6-VDD3_0)。
+将 U6 引脚 4 连接到了 Net-(R31-Pad2)。
+添加网络 /BM1366/CLKO。
+将 U6 引脚 8 连接到了 /BM1366/CLKO。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-CLKO-Pad23)。
+将 U6 引脚 23 连接到了 unconnected-(U6-CLKO-Pad23)。
+添加网络 /BM1366/CO。
+将 U6 引脚 6 连接到了 /BM1366/CO。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 30 连接到了 Net-(U6-VDD1_1)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+添加网络 /BM1366/RI。
+将 U6 引脚 7 连接到了 /BM1366/RI。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 18 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 28 连接到了 Net-(U6-VDD3_1)。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 31 连接到了 VDD。
+将 U6 引脚 32 连接到了 GND_1。
+将 U6 引脚 32 连接到了 GND_1。
+添加网络 unconnected-(U6-CO-Pad25)。
+将 U6 引脚 25 连接到了 unconnected-(U6-CO-Pad25)。
+将 U6 引脚 31 连接到了 VDD。
+已更新 U6 单元的元数据。
+已将 REF** 的位号更改为 C90。
+已将 C90 的值从 'C_0402_1005Metric' 修改为 '1uF'。
+将 C90 符号分配从  更新到 /4cf9c075-d009-4c35-9949-adda70ae20c7/64dd4181-b475-4721-92ac-613f6684715e。
+已更新 C90 个字段。
+已将 C90 图纸名称更新为 '/BM1366/'。
+已将 C90 图纸文件更新为 'bm1366.kicad_sch'。
+已将 C90 封装筛选规则更新为 'C_*'。
+将 C90 引脚 1 连接到了 GND_1。
+添加网络 Net-(U5-VDD3_0)。
+将 C90 引脚 2 连接到了 Net-(U5-VDD3_0)。
+已更新 C90 单元的元数据。
+将 C92 引脚 1 从 Net-(A1-VDD1_0) 重新连接到了 Net-(U5-VDD3_0)。
+将过孔从 Net-(A3-VDD1_1) 重新连接到了 Net-(U5-VDD1_1)。
+将过孔从 Net-(A3-VDD2_1) 重新连接到了 Net-(U5-VDD2_1)。
+将过孔从 Net-(A3-VDD3_1) 重新连接到了 Net-(U5-VDD3_1)。
+将过孔从 Net-(A6-RI) 重新连接到了 Net-(U6-RI)。
+将过孔从 Net-(A4-VDD1_0) 重新连接到了 Net-(U6-VDD3_0)。
+将过孔从 Net-(A4-VDD2_0) 重新连接到了 Net-(U6-VDD2_0)。
+将过孔从 Net-(A4-VDD3_0) 重新连接到了 Net-(U6-VDD1_0)。
+将过孔从 Net-(A1-VDD3_0) 重新连接到了 Net-(U5-VDD1_0)。
+将过孔从 Net-(A1-VDD2_0) 重新连接到了 Net-(U5-VDD2_0)。
+将过孔从 Net-(A1-VDD1_0) 重新连接到了 Net-(U5-VDD3_0)。
+将过孔从 Net-(A1-LITE_PAD) 重新连接到了 Net-(U5-LITE_PAD)。
+将过孔从 Net-(A4-LITE_PAD) 重新连接到了 Net-(U6-LITE_PAD)。
+将过孔从 Net-(A4-VDD1_1) 重新连接到了 Net-(U6-VDD3_1)。
+将过孔从 Net-(A4-VDD2_1) 重新连接到了 Net-(U6-VDD2_1)。
+将过孔从 Net-(A4-VDD3_1) 重新连接到了 Net-(U6-VDD1_1)。
+移除未使用的网络 0V8。
+移除未使用的网络 1V2。
+移除未使用的网络 BI。
+移除未使用的网络 BO。
+移除未使用的网络 CI。
+移除未使用的网络 CLK。
+移除未使用的网络 CLKI。
+移除未使用的网络 CO。
+移除未使用的网络 NC。
+移除未使用的网络 RI。
+移除未使用的网络 RO。
+移除未使用的网络 RST。
+移除未使用的网络 RSTI。
+移除未使用的网络 VDD1_0。
+移除未使用的网络 VDD1_1。
+移除未使用的网络 VDD2_0。
+移除未使用的网络 VDD2_1。
+移除未使用的网络 VDD3_0。
+移除未使用的网络 VDD3_1。
+警告: 过孔连接到未知网络 (Net-(A4-NRSTO))。
+警告: 过孔连接到未知网络 (Net-(A3-LITE_PAD))。
+警告: 过孔连接到未知网络 (Net-(A1-VDD3_1))。
+警告: 过孔连接到未知网络 (Net-(A1-VDD2_1))。
+警告: 过孔连接到未知网络 (Net-(A1-VDD1_1))。
+警告: 过孔连接到未知网络 (Net-(A6-VDD3_0))。
+警告: 过孔连接到未知网络 (Net-(A6-VDD2_0))。
+警告: 过孔连接到未知网络 (Net-(A6-VDD1_0))。
+警告: 过孔连接到未知网络 (Net-(A1-NRSTO))。
+警告: 过孔连接到未知网络 (Net-(A6-LITE_PAD))。
+错误: U7 的焊盘 17 在 Package_SO:TSSOP-16_4.4x5mm_P0.65mm 中未找到。
+
+
+信息: 总计警告: 10, 错误: 1。
