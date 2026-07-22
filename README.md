@@ -1,5 +1,6 @@
 It is still an untested prototype! Don't build this expecting it to work at all.
 # BV001
+design by nerdqaxeplus2(https://github.com/shufps/qaxe), Change the ASIC to 1 x BM1373 AA (6.1TH/s SHA256)
 ![hashcard](https://github.com/Shizuku-g/BV002/blob/master/image/bv001/bv001-A.png)
 ![hashcard](https://github.com/Shizuku-g/BV002/blob/master/image/bv001/bv001-B.png)
 ![hashcard](https://github.com/Shizuku-g/BV002/blob/master/image/bv001/bv001-test.jpg)
