@@ -7,5 +7,5 @@ Design tested and validated.
 consume about 110 Watts on 12V for about 6.1TH/s (Vcore 1250mV, frequency 900Hz).
 run at 735 MHz and 1140 mV, power wall around 78W, efficiency 14J/Th, 5TH/s.
 use a 12V 15A PSU.
-# BV001
+# BV002
 It is still an untested prototype! Don't build this expecting it to work at all.
